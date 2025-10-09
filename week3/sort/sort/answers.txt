@@ -1,0 +1,3 @@
+sort1: selection
+sort2: bubble
+sort3: insertion
