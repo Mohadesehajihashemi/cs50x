@@ -36,3 +36,9 @@ week3/runoff/runoff
 # local chat logs
 chat-history*
 chat-histoty*
+
+# ignore local binaries/logs
+*.log
+*/tideman
+*/plurality
+*/runoff
