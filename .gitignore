@@ -32,3 +32,7 @@ week3/runoff/runoff
 **/*.o
 **/tideman
 **/runoff
+
+# local chat logs
+chat-history*
+chat-histoty*
