@@ -26,3 +26,9 @@ week3/sort/sort/sort1
 week3/sort/sort/sort2
 week3/sort/sort/sort3
 week3/runoff/runoff
+
+# builds
+**/build.log
+**/*.o
+**/tideman
+**/runoff
